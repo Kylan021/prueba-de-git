@@ -1,4 +1,4 @@
-# prueba-de-git
+# Repo de prueba
 primer repositorio de git hub
 
 
